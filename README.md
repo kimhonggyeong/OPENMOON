@@ -14,7 +14,7 @@ OPENMOON/
 ├── build_quote_db.py           # 견적서 샘플 → quotation_history.db 생성
 ├── build_price_db_check.py     # 단가 DB 검증
 │
-├── ex.xlsx                     # 견적서 템플릿
+├── ex.xlsx                     # 견적서 템플릿 (보안상 업로드하지 않음)
 ├── price_engine.py             # 가격 검색 엔진
 ├── price_table.db              # 단가 DB (보안상 업로드하지 않음)
 ├── quotation_history.db        # 견적서 DB (보안상 업로드하지 않음)
